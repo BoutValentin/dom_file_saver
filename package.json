@@ -1,13 +1,13 @@
 {
   "name": "dom_file_saver",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Wrapper around domtoimage to save dom element into SVG or PNG.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["dom-to-image", "svg", "png", "dom", "save dom element"],
+  "author": "BoutValentin",
   "license": "ISC",
   "devDependencies": {
     "@types/dom-to-image": "^2.6.4",
